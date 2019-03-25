@@ -1,0 +1,4 @@
+# List repository contents using GAV coordinates
+
+org.osgi:org.osgi.service.component:1.4.0
+org.osgi:org.osgi.service.component.annotations:1.4.0
